@@ -1,0 +1,6 @@
+/.vscode
+/a.out
+/main.out
+/main_blas.o
+/main_blas.out
+/main_sse.out
